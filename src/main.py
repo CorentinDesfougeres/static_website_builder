@@ -1,5 +1,8 @@
 from textnode import TextType, TextNode
 
+
+
+
 def main():
     print(TextNode("test", TextType.BOLD))
 
